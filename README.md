@@ -1,6 +1,6 @@
 # Applications Catalogue
 
-Provide a brief description of your project here.
+A daily generated database, populated from json files that contain info about installed applications on different systems.
 
 # Installation
 
