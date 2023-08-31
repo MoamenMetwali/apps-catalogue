@@ -1,6 +1,6 @@
 # Applications Catalogue
 
-A daily generated database, populated from json files that contain info about installed applications on different systems.
+A daily generated database, populated from json files that contain info about installed applications on different systems[Ibex, Neser and Shaheen].
 
 # Installation
 
@@ -10,7 +10,7 @@ To use the MySQL database on your local machine, follow these steps:
     Setup MySQL by following the instructions provided on the website.
     Clone the Github repository to your local machine: git clone (https://github.com/MoamenMetwali/apps-catalogue.git)
     Locate the database file in the repository (.sql file).
-    Open MySQL and create a new database.
+    Open MySQL and create a new database..
     Import the database file into the new database.
 
 
